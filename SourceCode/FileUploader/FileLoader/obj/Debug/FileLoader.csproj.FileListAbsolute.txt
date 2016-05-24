@@ -1,0 +1,10 @@
+C:\Documents\Projects\FileLoader\FileLoader\bin\Debug\FileLoader.exe.config
+C:\Documents\Projects\FileLoader\FileLoader\bin\Debug\FileLoader.exe
+C:\Documents\Projects\FileLoader\FileLoader\bin\Debug\FileLoader.pdb
+C:\Documents\Projects\FileLoader\FileLoader\obj\Debug\FileLoader.csprojResolveAssemblyReference.cache
+C:\Documents\Projects\FileLoader\FileLoader\obj\Debug\FileLoader.LoginDialogForm.resources
+C:\Documents\Projects\FileLoader\FileLoader\obj\Debug\FileLoader.Properties.Resources.resources
+C:\Documents\Projects\FileLoader\FileLoader\obj\Debug\FileLoader.csproj.GenerateResource.Cache
+C:\Documents\Projects\FileLoader\FileLoader\obj\Debug\FileLoader.exe
+C:\Documents\Projects\FileLoader\FileLoader\obj\Debug\FileLoader.pdb
+C:\Documents\Projects\FileLoader\FileLoader\obj\Debug\FileLoader.FileUploaderForm.resources

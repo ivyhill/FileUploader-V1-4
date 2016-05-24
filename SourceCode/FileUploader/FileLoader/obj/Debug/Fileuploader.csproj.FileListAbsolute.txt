@@ -1,0 +1,11 @@
+C:\Documents\Projects\FileUploader\FileLoader\bin\Debug\FileLoader.exe.config
+C:\Documents\Projects\FileUploader\FileLoader\obj\Debug\FileLoader.exe
+C:\Documents\Projects\FileUploader\FileLoader\obj\Debug\FileLoader.pdb
+C:\Documents\Projects\FileUploader\FileLoader\bin\Debug\FileLoader.exe
+C:\Documents\Projects\FileUploader\FileLoader\bin\Debug\FileLoader.pdb
+C:\Documents\Projects\FileUploader\FileLoader\obj\Debug\FileUploader.csprojResolveAssemblyReference.cache
+C:\Documents\Projects\FileUploader\FileLoader\obj\Debug\FileLoader.FileUploaderForm.resources
+C:\Documents\Projects\FileUploader\FileLoader\obj\Debug\FileLoader.LoginDialogForm.resources
+C:\Documents\Projects\FileUploader\FileLoader\obj\Debug\FileLoader.Properties.Resources.resources
+C:\Documents\Projects\FileUploader\FileLoader\obj\Debug\FileUploader.csproj.GenerateResource.Cache
+C:\Documents\Projects\FileUploader\FileLoader\obj\Debug\FileLoader.exe.licenses
